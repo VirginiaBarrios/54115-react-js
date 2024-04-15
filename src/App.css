@@ -16,3 +16,15 @@
   background-color: #e3350d;
   color: white;
 }
+
+.colorVerde {
+  color: white;
+  background-color: #4dad5b;
+  padding: 10px;
+}
+
+.miClase {
+  color: pink;
+  font-size: 24px;
+  background-color: black;
+}

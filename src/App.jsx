@@ -1,5 +1,7 @@
+
 import './App.css';
-import EjemploFetch from './Clase7.jsx/EjemploFetch.jsx';
+import RenderProps from './Clase8/RenderProps.jsx';
+
 
 
 
@@ -7,7 +9,7 @@ import EjemploFetch from './Clase7.jsx/EjemploFetch.jsx';
 function App() {
   return (
       <>
-        <EjemploFetch />
+        <RenderProps/>
       </>
   )
 }
